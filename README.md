@@ -1,6 +1,6 @@
 # Shao's Strings
 This repository contains set of strings aimed at speeding up interaction times around the game.  
-GEC Compatible.
+GEC Compatible. (Not extensively testsed)
 
 ## Modifications
 - Nurse Joy / Healing dialogue removed
