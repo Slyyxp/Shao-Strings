@@ -18,3 +18,5 @@ Clone repository and dump `.xml` files into `/PokeMMO/data/strings/`
 - All Unova trainers dialogue removed
 - Most Hoenn trainers dialogue removed
 - Most Kanto trainers dialogue removed
+- Safari
+- + More Misc. Changes
