@@ -2,6 +2,8 @@
 This repository contains set of strings aimed at speeding up interaction times around the game.  
 GEC Compatible. (Not extensively testsed)
 
+## Installation
+Clone repository and dump `.xml` files into `/PokeMMO/data/strings/`
 ## Modifications
 - Nurse Joy / Healing dialogue removed
 - Relearners dialogue removed
