@@ -9,7 +9,7 @@
 
     <!-- PP -->
     <string id="8600">+PP?</string>
-    
+
     <!-- Region Link Ferry -->
     <string id="16780100">​</string>
     <string id="16780103">​</string>
@@ -115,6 +115,36 @@
     <string id="16780351">beautifully</string>
     <string id="16780352">nicely</string>
     <string id="16780353">poorly</string>
+
+    <!-- Safari -->
+        <!-- Hoenn -->
+    <string id="271207412">Exit?</string>
+    <string id="271207462">Game over</string>
+    <string id="271207510">Game over</string>
+    <string id="271207698">​</string>
+    <string id="271208006">​</string>
+    <string id="271208062">​</string>
+    <string id="271208097">​</string>
+    <string id="271208308">​</string>
+    <string id="271208407">​</string>
+    <string id="271208439">$0</string>
+    <string id="271208475">​</string>
+    <string id="271208502">​</string>
+    <string id="271208530">​</string>
+    <string id="271208559">​</string>
+        <!-- Kanto -->
+    <string id="1670251">​</string>
+    <string id="1670279">​</string>
+    <string id="1670407">​</string>
+    <string id="1670480">​</string>
+    <string id="1670528">​</string>
+    <string id="1670633">​</string>
+    <string id="1670658">$0</string>
+    <string id="1670682">Exit?</string>
+    <string id="1670728">​</string>
+    <string id="1670778">​</string>
+    <string id="1834011">Game over</string>
+    <string id="1834067">Game over</string>
 
     <!-- HM's by Region -->
     <!-- Kanto -->
