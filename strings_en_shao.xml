@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings lang="en_shao" lang_full="English - ShaoYuWei">
     <!-- Horde -->
-    <string id="5021">HORDE!</string>
+    <string id="5021">!HORDE!</string>
 
     <!-- PC -->
     <string id="2350">:)</string>
@@ -19,10 +19,18 @@
     <string id="1725739">​</string>
         <!-- Hoenn -->
     <string id="271001323">​</string>
-    <string id="271001496">​</string>
-    <string id="271001563">​</string>
-    <string id="271002048">​</string>
-    <string id="271001589">​</string>
+	<string id="271001496">​</string>
+	<string id="271001563">​</string>
+	<string id="271002048">​</string>
+	<string id="271001589">​</string>
+
+    <!-- Pokemart -->
+        <!-- Kanto -->
+    <string id="1729041">​</string>   
+    <string id="1724816">​</string>
+        <!-- Hoenn -->
+    <string id="271002145">​</string>
+    <string id="271002175">​</string>
 
     <!-- Relearners -->
         <!-- Regional Move Master Tutor -->
@@ -68,42 +76,42 @@
     <string id="1715635">​</string>
 
     <!-- Berries -->
-    <string id="4">Berries</string>
-    <string id="300014">Berries</string>
-    <string id="310018">Berries</string>
+	<string id="4">Berries</string>
+	<string id="300014">Berries</string>
+	<string id="310018">Berries</string>
 
-    <string id="16780309">Planted.</string>
-    <string id="16780310">planted..</string>
-    <string id="16780311">sprouted.</string>
-    <string id="16780312">seeds</string>
-    <string id="16780313">sapling</string>
+	<string id="16780309">Planted.</string>
+	<string id="16780310">planted..</string>
+	<string id="16780311">sprouted.</string>
+	<string id="16780312">seeds</string>
+	<string id="16780313">sapling</string>
 
-    <string id="16780315">Dry.</string>
-    <string id="16780316">Moist.</string>
-    <string id="16780317">Wet.</string>
-    <string id="16780318">Flooded.</string>
+	<string id="16780315">Dry.</string>
+	<string id="16780316">Moist.</string>
+	<string id="16780317">Wet.</string>
+	<string id="16780318">Flooded.</string>
 
-    <string id="16780320">Almost dry.</string>
-    <string id="16780321">Almost flooded.</string>
-    <string id="16780326">Plant?</string>
-    <string id="16780327">Water{00}?</string>
-    <string id="16780328">Watered.</string>
+	<string id="16780320">Almost dry.</string>
+	<string id="16780321">Almost flooded.</string>
+	<string id="16780326">Plant?</string>
+	<string id="16780327">Water{00}?</string>
+	<string id="16780328">Watered.</string>
 
-    <string id="16780329">{01} {00}!\n\nPick? {00}?</string>
-    <string id="16780330">You did not pick the {00}.</string>
-    <string id="16780331">{01} {02}.</string>
+	<string id="16780329">{01} {00}!\n\nPick? {00}?</string>
+	<string id="16780330">You did not pick the {00}.</string>
+	<string id="16780331">{01} {02}.</string>
 
-    <string id="16780335">Dry.</string>
-    <string id="16780336">Almost dry.</string>
-    <string id="16780337">Moist.</string>
-    <string id="16780338">Wet.</string>
-    <string id="16780339">Almost flooded.</string>
-    <string id="16780340">Flooded.</string>
+	<string id="16780335">Dry.</string>
+	<string id="16780336">Almost dry.</string>
+	<string id="16780337">Moist.</string>
+	<string id="16780338">Wet.</string>
+	<string id="16780339">Almost flooded.</string>
+	<string id="16780340">Flooded.</string>
 
-    <string id="16780350">excellently</string>
-    <string id="16780351">beautifully</string>
-    <string id="16780352">nicely</string>
-    <string id="16780353">poorly</string>
+	<string id="16780350">excellently</string>
+	<string id="16780351">beautifully</string>
+	<string id="16780352">nicely</string>
+	<string id="16780353">poorly</string>
 
     <!-- HM's by Region -->
     <!-- Kanto -->
@@ -174,9 +182,9 @@
     <string id="1832789">​</string>
     <string id="16777221">​</string>
     <!-- Day Care Man (Hoenn) -->
-    <string id="271131670">​</string>
-    <string id="271131044">​</string>
-    <string id="271131087">​</string>
+	<string id="271131670">​</string>
+	<string id="271131044">​</string>
+	<string id="271131087">​</string>
     <!-- Gym's by Region -->
     <!-- Kanto -->
         <!-- Brock | Pewter City | Boulder Badge -->
