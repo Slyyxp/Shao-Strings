@@ -4,6 +4,14 @@
     <string block_id="0" entry_id="52" table_id="8">\n</string>
     <string block_id="0" entry_id="53" table_id="8">\n</string>
 
+    <!-- Move Learning -->
+    <string block_id="0" entry_id="32" table_id="157">Delete a move for {01}?</string>
+    <string block_id="0" entry_id="35" table_id="157">Don't Learn?</string>
+    <string block_id="0" entry_id="38" table_id="157">​</string>
+    <string block_id="0" entry_id="39" table_id="157">Which move should be forgotten?</string>
+    <string block_id="0" entry_id="40" table_id="157">​</string>
+    <string block_id="0" entry_id="41" table_id="157">Learned {01}</string>
+
     <!-- Table 189, contains trainers-->
     <!-- Expression used to match table contents: (?<=table_id="189">)(.*?)(?=</string>) -->
     <string block_id="0" entry_id="1" table_id="189">​​</string>
