@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_primary="0" lang="en" lang_full="English">
+    <!-- Horde -->
+    <string id="5021">HORDE!</string>
+
     <!-- PC -->
     <string id="2350">:)</string>
     <string id="2351">PC</string>
@@ -212,11 +215,13 @@
     <string id="16779091">♂/♀?</string>
     <string id="16779093">${00}?</string>
     <string id="1695196">​</string>
+    <string id="1832746">​</string>
     <string id="1832789">​</string>
     <string id="16777221">​</string>
 
     <!-- Day Care Man (Hoenn) -->
     <string id="271131670">​</string>
+    <string id="271131044">​</string>
     <string id="271131087">​</string>
     
     <!-- Elite Four -->
