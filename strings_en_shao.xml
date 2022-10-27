@@ -10,6 +10,10 @@
     <!-- PP -->
     <string id="8600">+PP?</string>
 
+    <!-- Worn off -->
+    <string id="6011">{0}</string>
+    <string id="6012">{00}?</string> <!-- Use another? -->
+
     <!-- Region Link Ferry -->
     <string id="16780100">​</string>
     <string id="16780103">​</string>
