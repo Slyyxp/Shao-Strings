@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ds_strings_archive archive_type="1" lang="en_shao" region_id="2">
+<ds_strings_archive is_primary="0" archive_type="1" lang="en" region_id="2">
     <!-- Nurse Joy / Pokecenter -->
     <string block_id="0" entry_id="0" table_id="346">​</string>
     <string block_id="0" entry_id="1" table_id="346">​</string>
