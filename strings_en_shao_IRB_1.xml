@@ -34,6 +34,36 @@
     <string block_id="0" entry_id="3" table_id="424">​</string>
     <string block_id="0" entry_id="4" table_id="424">​</string>
 
+    <!-- Elite Four -->
+        <!-- Caitiln -->
+    <string block_id="0" entry_id="0" table_id="148">​</string>
+    <string block_id="0" entry_id="1" table_id="148">​</string>
+        <!-- Marshal -->
+    <string block_id="0" entry_id="0" table_id="147">​</string>
+    <string block_id="0" entry_id="1" table_id="147">​</string>
+        <!-- Shauntal -->
+    <string block_id="0" entry_id="0" table_id="145">​</string>
+    <string block_id="0" entry_id="1" table_id="145">​</string>
+        <!-- Grimsley -->
+    <string block_id="0" entry_id="0" table_id="146">​</string>
+    <string block_id="0" entry_id="1" table_id="146">​</string>
+    <string block_id="0" entry_id="2" table_id="146">​</string>
+        <!-- Adler -->
+    <string block_id="0" entry_id="13" table_id="149">​</string>
+    <string block_id="0" entry_id="14" table_id="149">​</string>
+    <string block_id="0" entry_id="15" table_id="149">​</string>
+    <string block_id="0" entry_id="16" table_id="149">​</string>
+    <string block_id="0" entry_id="17" table_id="149">​</string>
+    <string block_id="0" entry_id="18" table_id="149">​</string>
+    <string block_id="0" entry_id="19" table_id="149">​</string>
+    <string block_id="0" entry_id="20" table_id="149">​</string>
+    <string block_id="0" entry_id="21" table_id="149">​</string>
+    <string block_id="0" entry_id="22" table_id="149">​</string>
+    <string block_id="0" entry_id="23" table_id="149">​</string>
+    <string block_id="0" entry_id="24" table_id="149">​</string>
+    <string block_id="0" entry_id="0" table_id="150">​</string>
+    <string block_id="0" entry_id="1" table_id="150">​</string>
+
     <!-- Gym's -->
         <!-- Cilan/Chili/Cress | Striaton City | Trio Badge -->
     <string block_id="0" entry_id="2" table_id="12">​</string>

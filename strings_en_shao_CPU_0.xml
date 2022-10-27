@@ -23,6 +23,35 @@
     <string block_id="0" entry_id="5" table_id="547">​</string>
     <string block_id="0" entry_id="6" table_id="547">​</string>
 
+    <!-- Elite Four -->
+        <!-- Aaron -->
+    <string block_id="0" entry_id="0" table_id="185">​</string>
+    <string block_id="0" entry_id="1" table_id="185">​</string>
+    <string block_id="0" entry_id="2" table_id="185">​</string>
+        <!-- Bertha -->
+    <string block_id="0" entry_id="0" table_id="186">​</string>
+    <string block_id="0" entry_id="1" table_id="186">​</string>
+    <string block_id="0" entry_id="2" table_id="186">​</string>
+        <!-- Flint -->
+    <string block_id="0" entry_id="0" table_id="187">​</string>
+    <string block_id="0" entry_id="1" table_id="187">​</string>
+    <string block_id="0" entry_id="2" table_id="187">​</string>
+    <string block_id="0" entry_id="3" table_id="187">​</string>
+    <string block_id="0" entry_id="4" table_id="187">​</string>
+    <string block_id="0" entry_id="5" table_id="187">​</string>
+    <string block_id="0" entry_id="6" table_id="187">​</string>
+        <!-- Lucian -->
+    <string block_id="0" entry_id="0" table_id="188">​</string>
+    <string block_id="0" entry_id="1" table_id="188">​</string>
+    <string block_id="0" entry_id="2" table_id="188">​</string>
+        <!-- Cynthia -->
+    <string block_id="0" entry_id="0" table_id="189">​</string>
+    <string block_id="0" entry_id="1" table_id="189">​</string>
+    <string block_id="0" entry_id="2" table_id="189">​</string>
+    <string block_id="0" entry_id="3" table_id="189">​</string>
+    <string block_id="0" entry_id="0" table_id="190">​</string>
+
+
     <!-- Gyms -->
     <!-- Note: This also hides dialogue on first battle -->
         <!-- Roark | Oreburgh City | Coal Badge -->

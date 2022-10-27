@@ -220,6 +220,57 @@
     <string id="271131044">​</string>
     <string id="271131087">​</string>
     
+    <!-- Elite Four -->
+    <!-- Kanto -->
+         <!-- Woman at the entrance -->
+    <string id="1681624">​</string>
+        <!-- Lorelei -->
+    <string id="1540004">​</string>
+    <string id="1540233">​</string>
+    <string id="1540497">​</string>
+    <string id="1540528">​</string>
+        <!-- Bruno -->
+    <string id="1540623">​</string>
+    <string id="1540876">​</string>
+    <string id="1541129">​</string>
+    <string id="1541152">​</string>
+        <!-- Agatha -->
+    <string id="1541197">​</string>
+    <string id="1541517">​</string>
+    <string id="1541847">​</string>
+    <string id="1541888">​</string>
+        <!-- Lance -->
+    <string id="1541988">​</string>
+    <string id="1542333">​</string>
+    <string id="1542677">​</string>
+    <string id="1542738">​</string>
+        <!-- Gary / Rival -->
+    <string id="1543020">​</string>
+    <string id="1543380">​</string>
+    <string id="1543743">​</string>
+    <string id="1543983">​</string>
+    <!-- Hoenn -->
+        <!-- Sidney -->
+    <string id="270696359">​</string>
+    <string id="270696610">​</string>
+    <string id="270696684">​</string>
+        <!-- Phoebe -->
+    <string id="270696974">​</string>
+    <string id="270697253">​</string>
+    <string id="270697283">​</string>
+        <!-- Glacia -->
+    <string id="270697644">​</string>
+    <string id="270697908">​</string>
+    <string id="270698048">​</string>
+        <!-- Drake -->
+    <string id="270698302">​</string>
+    <string id="270698645">​</string>
+    <string id="270698672">​</string>
+        <!-- Wallace -->
+    <string id="270699596">​</string>
+    <string id="270700204">​</string>
+    <string id="270700390">​</string>
+
     <!-- Gym's by Region -->
     <!-- Kanto -->
         <!-- Brock | Pewter City | Boulder Badge -->
