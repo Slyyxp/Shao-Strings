@@ -246,11 +246,16 @@
     <string id="1542333">​</string>
     <string id="1542677">​</string>
     <string id="1542738">​</string>
-        <!-- Gary / Rival -->
+        <!-- Gary / Rival / Prof. Oak-->
     <string id="1543020">​</string>
     <string id="1543380">​</string>
     <string id="1543743">​</string>
     <string id="1543983">​</string>
+    <string id="1544134">​</string>
+    <string id="1544143">​</string>
+    <string id="1544335">​</string>
+    <string id="1544611">​</string>
+    <string id="1544751">​</string>
     <!-- Hoenn -->
         <!-- Woman at entrance -->
     <string id="270702312">​</string>
@@ -271,10 +276,28 @@
     <string id="270698302">​</string>
     <string id="270698645">​</string>
     <string id="270698672">​</string>
-        <!-- Wallace -->
+        <!-- Wallace / Prof. Birch / May-->
     <string id="270699596">​</string>
     <string id="270700204">​</string>
     <string id="270700390">​</string>
+    <string id="270700746">​</string>
+    <string id="270700811">​</string>
+    <string id="270700882">​</string>
+    <string id="270700962">​</string>
+    <string id="270701030">​</string>
+    <string id="270701389">​</string>
+    <string id="270701465">​</string>
+    <string id="270701547">​</string>
+    <string id="270701689">​</string>
+    <string id="270701813">​</string>
+    <string id="270702312">​</string>
+    <string id="270702471">​</string>
+    <string id="270702575">​</string>
+    <string id="270702862">​</string>
+    <string id="270703011">​</string>
+    <string id="270703322">​</string>
+    <string id="270703458">​</string>
+    <string id="270703601">​</string>
 
     <!-- Gym's by Region -->
     <!-- Kanto -->
