@@ -24,6 +24,9 @@
     <string block_id="0" entry_id="6" table_id="547">​</string>
 
     <!-- Elite Four -->
+        <!-- Woman at entrance -->
+    <string block_id="0" entry_id="4" table_id="184">​</string>
+    <string block_id="0" entry_id="3" table_id="184">​</string>
         <!-- Aaron -->
     <string block_id="0" entry_id="0" table_id="185">​</string>
     <string block_id="0" entry_id="1" table_id="185">​</string>
