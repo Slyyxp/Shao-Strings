@@ -5,8 +5,6 @@ GEC Compatible. (Not extensively testsed)
 ## Installation
 Clone repository and dump `.xml` files into `/PokeMMO/data/strings/`
 
-![Language](https://ptpimg.me/408377.png)
-
 ## Modifications
 - Nurse Joy / Healing dialogue removed
 - Relearners dialogue removed
