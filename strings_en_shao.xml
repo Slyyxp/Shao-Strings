@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_primary="0" lang="en" lang_full="English">
-    <!-- Horde -->
-    <string id="5021">!HORDE!</string>
-
     <!-- PC -->
     <string id="2350">:)</string>
     <string id="2351">PC</string>
