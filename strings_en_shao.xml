@@ -80,39 +80,40 @@
     <string id="1715635">​</string>
 
     <!-- Berries -->
-        <string id="4">Berries</string>
-        <string id="300014">Berries</string>
-        <string id="310018">Berries</string>
-
-        <string id="16780309">Planted.</string>
-        <string id="16780310">planted..</string>
-        <string id="16780311">sprouted.</string>
-        <string id="16780312">seeds</string>
-        <string id="16780313">sapling</string>
-
-        <string id="16780315">Dry.</string>
-        <string id="16780316">Moist.</string>
-        <string id="16780317">Wet.</string>
-        <string id="16780318">Flooded.</string>
-
-        <string id="16780320">Almost dry.</string>
-        <string id="16780321">Almost flooded.</string>
+        <!-- Crop States -->
+        <string id="16780309">Planted</string>
+        <string id="16780310">Planted..</string>
+        <string id="16780311">Sprouted</string>
+        <string id="16780312">Seeds</string>
+        <string id="16780313">Sapling</string>
         <string id="16780326">Plant?</string>
-        <string id="16780327">Water{00}?</string>
-
         <!-- Harvesting -->
     <string id="16780329">\n</string>
     <string id="16780330">\n</string>
     <string id="16780331">\n</string>
+        <!-- Growing States | Growing Interactions -->
+    <string id="16780324">​</string>
+    <string id="16780325">{01}</string>
+	<string id="16780350">Excellently</string>
+	<string id="16780351">Beautifully</string>
+	<string id="16780352">Nicely</string>
+	<string id="16780353">Poorly</string>
+    <string id="16780327">Water?</string> <!-- Would you like to water the {} berry? prompt when checking growing state -->
         <!-- Watering Can / Sprayduck -->
     <string id="16780328">\n</string> <!-- Removes dialogue box entirely -->
-        <!-- States -->
+        <!-- Water States -->
     <string id="16780335">Dry.</string>
     <string id="16780336">Almost dry.</string>
     <string id="16780337">Moist.</string>
     <string id="16780338">Wet.</string>
     <string id="16780339">Almost flooded.</string>
     <string id="16780340">Flooded.</string>
+    <string id="16780315">Dry.</string>
+    <string id="16780316">Moist.</string>
+    <string id="16780317">Wet.</string>
+    <string id="16780318">Flooded.</string>
+    <string id="16780320">Almost dry.</string>
+    <string id="16780321">Almost flooded.</string>
 
     <!-- Safari -->
         <!-- Hoenn -->
