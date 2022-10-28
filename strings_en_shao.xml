@@ -81,8 +81,8 @@
 
     <!-- Berries -->
         <!-- Plant Dialogue -->
-        <string id="16780326">\n</string>
-        <string id="16780309">\n</string>
+        <string id="16780326">​</string>
+        <string id="16780309">​</string>
         <!-- Crop States -->
         <string id="16780310">Planted..</string>
         <string id="16780311">Sprouted</string>
