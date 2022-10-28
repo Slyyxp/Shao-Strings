@@ -80,13 +80,14 @@
     <string id="1715635">​</string>
 
     <!-- Berries -->
+        <!-- Plant Dialogue -->
+        <string id="16780326">\n</string>
+        <string id="16780309">\n</string>
         <!-- Crop States -->
-        <string id="16780309">Planted</string>
         <string id="16780310">Planted..</string>
         <string id="16780311">Sprouted</string>
         <string id="16780312">Seeds</string>
         <string id="16780313">Sapling</string>
-        <string id="16780326">Plant?</string>
         <!-- Harvesting -->
     <string id="16780329">\n</string>
     <string id="16780330">\n</string>
