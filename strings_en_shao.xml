@@ -80,33 +80,33 @@
     <string id="1715635">​</string>
 
     <!-- Berries -->
-    <string id="4">Berries</string>
-    <string id="300014">Berries</string>
-    <string id="310018">Berries</string>
+        <string id="4">Berries</string>
+        <string id="300014">Berries</string>
+        <string id="310018">Berries</string>
 
-    <string id="16780309">Planted.</string>
-    <string id="16780310">planted..</string>
-    <string id="16780311">sprouted.</string>
-    <string id="16780312">seeds</string>
-    <string id="16780313">sapling</string>
+        <string id="16780309">Planted.</string>
+        <string id="16780310">planted..</string>
+        <string id="16780311">sprouted.</string>
+        <string id="16780312">seeds</string>
+        <string id="16780313">sapling</string>
 
-    <string id="16780315">Dry.</string>
-    <string id="16780316">Moist.</string>
-    <string id="16780317">Wet.</string>
-    <string id="16780318">Flooded.</string>
+        <string id="16780315">Dry.</string>
+        <string id="16780316">Moist.</string>
+        <string id="16780317">Wet.</string>
+        <string id="16780318">Flooded.</string>
 
-    <string id="16780320">Almost dry.</string>
-    <string id="16780321">Almost flooded.</string>
-    <string id="16780326">Plant?</string>
-    <string id="16780327">Water{00}?</string>
+        <string id="16780320">Almost dry.</string>
+        <string id="16780321">Almost flooded.</string>
+        <string id="16780326">Plant?</string>
+        <string id="16780327">Water{00}?</string>
 
-    <string id="16780329">{01} {00}!\n\nPick? {00}?</string>
-    <string id="16780330">You did not pick the {00}.</string>
-    <string id="16780331">{01} {02}.</string>
-
-    <!-- Watering Can / Sprayduck -->
+        <!-- Harvesting -->
+    <string id="16780329">\n</string>
+    <string id="16780330">\n</string>
+    <string id="16780331">\n</string>
+        <!-- Watering Can / Sprayduck -->
     <string id="16780328">\n</string> <!-- Removes dialogue box entirely -->
-    <!-- States -->
+        <!-- States -->
     <string id="16780335">Dry.</string>
     <string id="16780336">Almost dry.</string>
     <string id="16780337">Moist.</string>
