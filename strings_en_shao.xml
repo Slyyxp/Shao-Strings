@@ -89,9 +89,9 @@
         <string id="16780312">Seeds</string>
         <string id="16780313">Sapling</string>
         <!-- Harvesting -->
-    <string id="16780329">\n</string>
-    <string id="16780330">\n</string>
-    <string id="16780331">\n</string>
+    <string id="16780329">​</string>
+    <string id="16780330">​</string>
+    <string id="16780331">​</string>
         <!-- Growing States | Growing Interactions -->
     <string id="16780324">​</string>
     <string id="16780325">{01}</string>
