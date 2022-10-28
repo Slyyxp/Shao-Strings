@@ -107,6 +107,13 @@
     <string block_id="0" entry_id="3" table_id="150">​</string>
     <string block_id="0" entry_id="4" table_id="150">​</string>
 
+    <!-- Game Freak Morimoto -->
+        <!-- Pre-battle dialogue -->
+    <string block_id="0" entry_id="9" table_id="53">​</string>
+    <string block_id="0" entry_id="10" table_id="53">​</string>
+        <!-- Post-battle dialogue -->
+    <string block_id="0" entry_id="11" table_id="53">​</string>
+
     <!-- Gym's -->
         <!-- Cilan/Chili/Cress | Striaton City | Trio Badge -->
     <string block_id="0" entry_id="2" table_id="12">​</string>
