@@ -39,13 +39,13 @@
     <!-- Relearners -->
         <!-- Regional Move Master Tutor -->
     <string id="16779000">​</string>
-    <string id="16779001">Come back after you've gained a few badges.</string>
+    <string id="16779001">Come back after you've gained a few badges</string>
     <string id="16779002">​</string>
     <string id="16779003">​</string>
     <string id="16779005">Again?</string>
         <!-- Combination Move Relearner + Move Deleter -->
     <string id="16779020">​</string>
-    <string id="16779021">Come back after you've gained a few badges.</string>
+    <string id="16779021">Come back after you've gained a few badges</string>
     <string id="16779022">​</string>
     <string id="16779023">​</string>
     <string id="16779024">{00} learned {01}!</string>
@@ -64,15 +64,15 @@
         <!-- Reusable Move Tutor -->
     <string id="16779050">${00}?</string>
     <string id="16779052">It will cost {00}x {01}?</string>
-    <string id="16779053">Come back with {00}x {01}.</string>
+    <string id="16779053">Come back with {00}x {01}</string>
     <string id="16779054">{00}x {01} and {02}x {03}?</string>
         <!-- Move Deleter -->
     <string id="16779055">${00}?</string>
     <string id="16779057">​</string>
         <!-- Mushroom Maniac -->
     <string id="16778100">​</string>
-    <string id="16778102">Insufficient {00}(s).</string>
-    <string id="16778103">Insufficient {00}(s)/{01}(s).</string>
+    <string id="16778102">Insufficient {00}(s)</string>
+    <string id="16778103">Insufficient {00}(s)/{01}(s)</string>
     <string id="1715299">​</string>
     <string id="1715523">​</string>
     <string id="1715680">​</string>
@@ -102,18 +102,18 @@
         <!-- Watering Can / Sprayduck -->
     <string id="16780328">\n</string> <!-- Removes dialogue box entirely -->
         <!-- Water States -->
-    <string id="16780335">Dry.</string>
-    <string id="16780336">Almost dry.</string>
-    <string id="16780337">Moist.</string>
-    <string id="16780338">Wet.</string>
-    <string id="16780339">Almost flooded.</string>
-    <string id="16780340">Flooded.</string>
-    <string id="16780315">Dry.</string>
-    <string id="16780316">Moist.</string>
-    <string id="16780317">Wet.</string>
-    <string id="16780318">Flooded.</string>
-    <string id="16780320">Almost dry.</string>
-    <string id="16780321">Almost flooded.</string>
+    <string id="16780335">Dry</string>
+    <string id="16780336">Almost dry</string>
+    <string id="16780337">Moist</string>
+    <string id="16780338">Wet</string>
+    <string id="16780339">Almost flooded</string>
+    <string id="16780340">Flooded</string>
+    <string id="16780315">Dry</string>
+    <string id="16780316">Moist</string>
+    <string id="16780317">Wet</string>
+    <string id="16780318">Flooded</string>
+    <string id="16780320">Almost dry</string>
+    <string id="16780321">Almost flooded</string>
 
     <!-- Safari -->
         <!-- Hoenn -->
@@ -149,7 +149,7 @@
     <!-- Kanto -->
         <!-- Rock Smash -->
     <string id="1826973">​</string>
-    <string id="1827042">HM Rock Smash Required.</string>
+    <string id="1827042">HM Rock Smash Required</string>
         <!-- Strength -->
     <string id="1827226">​</string>
     <string id="1827322">​</string>
@@ -159,7 +159,7 @@
         <!-- Surf -->
     <string id="1725806">​</string>
     <string id="1725861">​</string>
-    <string id="1725875">Current too strong...</string>
+    <string id="1725875">Current too strong</string>
         <!-- Waterfall -->
     <string id="1827647">​</string>
     <string id="1827704">​</string>
