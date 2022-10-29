@@ -36,6 +36,16 @@
     <string id="271002145">​</string>
     <string id="271002175">​</string>
 
+    <!-- Battle Point Exchange Service -->
+        <!-- Kanto -->
+    <string id="16779060">​</string>
+    <string id="16779061">​</string>
+    <string id="16779062">{00} - {01}BP</string>
+    <string id="16779063">Insufficient BP</string>
+    <string id="16779064">​</string>
+        <!-- Hoenn -->
+    <string id="270923770">​</string>
+
     <!-- Relearners -->
         <!-- Regional Move Master Tutor -->
     <string id="16779000">​</string>

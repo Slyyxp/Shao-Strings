@@ -16,6 +16,10 @@
     <string block_id="0" entry_id="10" table_id="346">​</string>
     <string block_id="0" entry_id="11" table_id="346">​</string>
 
+    <!-- Battle Point Exchange Service -->
+    <string block_id="0" entry_id="8" table_id="424">​</string>
+    <string block_id="0" entry_id="9" table_id="424">​</string>
+
     <!-- Received the egg (Day Care Man) -->
     <string block_id="0" entry_id="7" table_id="426">​</string>
     <string block_id="0" entry_id="8" table_id="426">​</string>
