@@ -7,6 +7,15 @@
     <!-- PP -->
     <string id="8600">+PP?</string>
 
+    <!-- Move Learning -->
+    <string id="200004">​</string>
+    <string id="200005">​</string>
+    <string id="200006">{01}?</string>
+    <string id="200007">​</string>
+    <string id="200008">Don't Learn?</string>
+    <string id="200009">​</string>
+    <string id="200010">​</string>
+
     <!-- Worn off -->
     <string id="6011">{0}</string>
     <string id="6012">{00}?</string> <!-- Use another? -->
