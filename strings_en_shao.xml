@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_primary="0" lang="en" lang_full="English">
+
+    <!-- Events -->
+    <!-- Halloween 2022 -->
+    <string id="16800002">{STRING_100035} for {00}</string>
+    <string id="16800003">Give {STRING_100033}?</string>
+    <string id="16800004">\n</string>
+    <string id="16800005">Gave {STRING_100033}.</string>
+    <string id="16800006">\n</string>
+    <string id="16800007">{STRING_100035} for {00} {STRING_100033}?</string>
+    <string id="16800008">You have {STRING_100033}?</string>
+    <string id="16800009">\n</string>
+    <string id="16800010">Gave {00} {STRING_100033}.</string>
+    <string id="16800011">\n</string>
+    <string id="16800012">{00} {STRING_100033} for {STRING_100035}</string>
+    <string id="16800013">You have {STRING_100033}?</string>
+    <string id="16800014">\n</string>
+    <string id="16800015">Gave {00} {STRING_100033}.</string>
+    <string id="16800016">I have plenty more {STRING_100035} left.</string>
+        <!-- Challenge Pumpking -->
+    <string id="16800210">Challenge?</string>
+    <string id="16800211">Better steer clear</string>
+        <!-- Light Lantern -->
+    <string id="16800017">\n</string>
+    <string id="16800018">\n</string>
+    <string id="16800019">Light?</string>
+        <!-- Pumpking -->
+    <string id="16800200">Giant Pumpkin spotted - {00}</string>
+    <string id="16800201">The Pumpking in {00} has been defeated, but it's still collecting the last of this year's candy!\nTurn in your {STRING_100033} for {STRING_100035}s before it's too late!</string>
+    <string id="16800202">The Pumpking has returned to {00}! Turn in your {STRING_100080} to defeat him!</string>
+    <string id="16800203">It's a spooky Jack-o'-lantern!\n\n"Made in {00}" is\ncarved into the back.</string>
+    <string id="16800204">The Pumpking has been defeated, but it's still collecting the last of this year's candy!\n\nTurn in your {STRING_100033} for {STRING_100035}s before it's too late!</string>
+    <string id="16800205">Pumpking's Power</string>
+    <string id="16800206">A giant pumpkin has been spotted nearby. Strange things happen when you feed it candy...</string>
+    <string id="16800207">The Pumpking has returned! Turn in your {STRING_100080} to defeat him!</string>
+    <string id="16800208">Do you have any candy to turn in?</string>
+    <string id="16800209">See you next year!</string>
+        <!-- More Pumpking -->
+    <string id="16800040">Feed?</string>
+    <string id="16800041">\n</string>
+    <string id="16800042">\n</string>
+    <string id="16800043">\n</string>
+    <string id="16800044">\n</string>
+    <string id="16800045">\n</string>
+    <string id="16800046">Turn in Spooky Candy</string>
+    <string id="16800047">Handed over the {00}</string>
+    <string id="16800048">{00} can't eat more</string>
+    <string id="16800049">Feed?</string>
+    <string id="16800050">The pumpkin's eyes glimmered in anticipation.</string>
+    <string id="16800051">The pumpkin's eyes stared dull.</string>
+    <string id="16800052">Enable Hard Mode?</string>
+    <string id="16800053">\n</string>
+        <!-- Even more Pumpking -->
+    <string id="16800030">\n</string>
+    <string id="16800031">\n</string>
+    <string id="16800032">\n</string>
+    <string id="16800033">\n</string>
+    <string id="16800034">\n</string>
+    <string id="16800035">\n</string>
+    <string id="16800036">Buster</string>
+    <string id="16800037">The pumpkin stares, lifeless once more.</string>
+    <string id="16800038">\n</string>
+    <string id="16800039">Mummy</string>
+        <!-- Wips-->
+    <string id="16800212">{00} remain</string>
+    <string id="16800213">\n</string>
+
     <!-- PC -->
     <string id="2350">:)</string>
     <string id="2351">PC</string>
