@@ -29,7 +29,7 @@
     <string id="16800200">Giant Pumpkin spotted - {00}</string>
     <string id="16800201">The Pumpking in {00} has been defeated, but it's still collecting the last of this year's candy!\nTurn in your {STRING_100033} for {STRING_100035}s before it's too late!</string>
     <string id="16800202">The Pumpking has returned to {00}! Turn in your {STRING_100080} to defeat him!</string>
-    <string id="16800203">It's a spooky Jack-o'-lantern!\n\n"Made in {00}" is\ncarved into the back.</string>
+    <string id="16800203">"Made in {00}"</string>
     <string id="16800204">The Pumpking has been defeated, but it's still collecting the last of this year's candy!\n\nTurn in your {STRING_100033} for {STRING_100035}s before it's too late!</string>
     <string id="16800205">Pumpking's Power</string>
     <string id="16800206">A giant pumpkin has been spotted nearby. Strange things happen when you feed it candy...</string>
