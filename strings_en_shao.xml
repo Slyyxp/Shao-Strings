@@ -3,6 +3,18 @@
 
     <!-- Events -->
     <!-- Halloween 2022 -->
+        <!-- Kids -->
+    <string id="16800020">Vampire</string>
+    <string id="16800021">Ghost</string>
+    <string id="16800022">Witch</string>
+    <string id="16800023">\n</string>
+    <string id="16800024">\n</string>
+    <string id="16800025">\n</string>
+    <string id="16800026">\n</string>
+    <string id="16800027">\n</string>
+    <string id="16800028">\n</string>
+    <string id="16800029">\n</string>
+
     <string id="16800002">{STRING_100035} for {00}</string>
     <string id="16800003">Give {STRING_100033}?</string>
     <string id="16800004">\n</string>
