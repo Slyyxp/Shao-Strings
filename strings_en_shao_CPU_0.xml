@@ -69,7 +69,6 @@
     <string block_id="0" entry_id="5" table_id="191">​</string>
     <string block_id="0" entry_id="6" table_id="191">​</string>
 
-
     <!-- Gyms -->
     <!-- Note: This also hides dialogue on first battle -->
         <!-- Roark | Oreburgh City | Coal Badge -->
@@ -161,6 +160,20 @@
     <string block_id="0" entry_id="25" table_id="381">​</string>
         <!-- Flash -->
     <string block_id="0" entry_id="26" table_id="381">​</string>
+
+    <!-- Fossil Researcher (Oreburgh City) -->
+    <string block_id="0" entry_id="1" table_id="79">​</string>
+    <string block_id="0" entry_id="2" table_id="79">​</string>
+    <string block_id="0" entry_id="3" table_id="79">Choose</string>
+    <string block_id="0" entry_id="4" table_id="79">​</string>
+    <string block_id="0" entry_id="5" table_id="79">​</string>
+    <string block_id="0" entry_id="6" table_id="79">​</string>
+    <string block_id="0" entry_id="7" table_id="79">​</string>
+    <string block_id="0" entry_id="8" table_id="79">​</string>
+    <string block_id="0" entry_id="9" table_id="79">Nickname?</string>
+    <string block_id="0" entry_id="10" table_id="79">Party full</string>
+    <string block_id="0" entry_id="11" table_id="79">​</string>
+    <string block_id="0" entry_id="12" table_id="79">​</string>
 
     <!-- Table 617, I believe this covers all trainers -->
     <!-- Expression used to match table contents: (?<=table_id="617">)(.*?)(?=</string>) -->
