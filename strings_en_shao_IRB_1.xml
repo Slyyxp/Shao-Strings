@@ -253,4 +253,17 @@
     <string block_id="0" entry_id="30" table_id="280">Dive Required</string>
     <string block_id="0" entry_id="31" table_id="280">​</string>
     <string block_id="0" entry_id="32" table_id="280">​</string>
+
+    <!-- Fossils (Nacrene City)-->
+    <string block_id="0" entry_id="0" table_id="285">​</string>
+    <string block_id="0" entry_id="1" table_id="285">​</string>
+    <string block_id="0" entry_id="2" table_id="285">Choose</string>
+    <string block_id="0" entry_id="3" table_id="285">​</string>
+    <string block_id="0" entry_id="4" table_id="285">​</string>
+    <string block_id="0" entry_id="6" table_id="285">​</string>
+    <string block_id="0" entry_id="7" table_id="285">​</string>
+    <string block_id="0" entry_id="8" table_id="285">Nickname?</string>
+    <string block_id="0" entry_id="9" table_id="285">Party full</string>
+    <string block_id="0" entry_id="10" table_id="285">​</string>
+
 </ds_strings_archive>
