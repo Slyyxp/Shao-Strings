@@ -484,6 +484,13 @@
      <!-- Ocarina / Summon -->
     <string id="16780155">\n</string>
 
+    <!-- Rydel's Bike Exchange (Hoenn) -->
+    <string id="270594555">​</string>
+    <string id="270594607">​</string>
+    <string id="270594659">​</string>
+    <string id="270594708">​</string>
+    <string id="270594756">​</string>
+
     <!-- Kanto NPC's -->
     <!-- Note: I believe most of these to be trainers, some civilian NPC's are probably mixed in-->
     <string id="1840371">​​​</string>
