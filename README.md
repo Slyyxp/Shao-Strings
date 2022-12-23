@@ -1,6 +1,6 @@
 # Shao's Strings
 This repository contains set of strings aimed at speeding up interaction times around the game.  
-GEC Compatible. (Not extensively testsed)
+GEC Compatible.
 
 ## Installation
 Clone repository and dump `.xml` files into `/PokeMMO/data/strings/`
